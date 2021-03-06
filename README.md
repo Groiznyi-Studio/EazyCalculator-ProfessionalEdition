@@ -6,6 +6,6 @@ EazyCalculator-ProfessionalEdition - Calculator is written for fun in C++ (Prett
 
 2)Exponentiation
 
-3)Find area of a square or rectangle
+3)Will find area of a square or rectangle
 
-4)Find the hypotenuse of a right triangle(Pythagorean theorem)
+4)Will find the hypotenuse of a right triangle(Pythagorean theorem)
